@@ -33,7 +33,7 @@ logged in to Coursera and be taking the course to see it...)
 
 The structure is the one indicated by David Hood in this picture:
 
-![Data sets](./Slide2.png)
+![Data sets](./images/Slide2.png)
 
 The script constructs the very same structure, bit by bit:
 
